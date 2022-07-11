@@ -1,5 +1,7 @@
 fun main() {
     val arr = (10 downTo 1).toList()
+    val x = InitOrderDemo(name = "manhal")
+
 
 }
 
@@ -42,3 +44,4 @@ fun isSorted(values: List<Int>): Int {
 
 
 }
+
